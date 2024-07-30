@@ -1,5 +1,6 @@
 package ru.stepup;
 
+
 public class MainApp {
     public static void main(String[] args) {
         Fraction f1 = new Fraction(1, 3);
